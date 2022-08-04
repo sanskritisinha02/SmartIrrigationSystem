@@ -1,4 +1,4 @@
-# Smart-Irrigation-System
+# Smart-Irrigation-System using Cisco Packet Tracer 8.1.1
 A Smart Irrigation system using Cisco Packet Tracer 8.1.1
 
 Smart Irrigation system consists of smart devices that automate the irrigation system that allows the homeowners to automate the lawn sprinkler/ watering system according to the level of the water shown by the water level monitor, which results in turning the water drain on or off accordingly. 
